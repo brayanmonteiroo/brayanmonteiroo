@@ -1,4 +1,4 @@
-# Oi, sou Brayan, Desenvolvedor Fullstack Web 👋
+# Brayan - Desenvolvedor Fullstack Web 👨🏻‍💻
 
 ### 🛠️ Tecnologias
 
@@ -21,10 +21,12 @@
 | [**potfolio-bootstrap**](https://github.com/brayanmonteiroo/potfolio-bootstrap) | Template de portfólio responsivo | Bootstrap, HTML |
 | [**lojavirtual**](https://github.com/brayanmonteiroo/lojavirtual) | E-commerce completo com PHP | PHP, MySQL |
 | [**api-feed-blog**](https://github.com/brayanmonteiroo/api-feed-blog) | API para feed de postagens | PHP, REST |
+| [**LaravelCMS**](https://github.com/brayanmonteiroo/LaravelCMS) | Um CMS completo feito com Laravel | PHP, Laravel |
+| [**sis-adm**](https://github.com/brayanmonteiroo/sis-adm) | Painel administrativo com níveis de acesso com PHP puro. | PHP, MySQL |
 
 ---
 
 ### 📫 Contato
 
-✉️ **E-mail:** [contato@brayan.dev](mailto:brayanmonteirooo@gmail.com)  
+✉️ **E-mail:** [brayanmonteirooo@gmail.com](mailto:brayanmonteirooo@gmail.com)  
 🌐 **Portfólio:** [https://brayan.dev](https://brayan.dev)
